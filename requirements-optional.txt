@@ -1,0 +1,3 @@
+# Spec's UnstructuredPDFLoader (also needs system poppler/tesseract); otherwise pypdf fallback is used.
+langchain-community
+unstructured[pdf]

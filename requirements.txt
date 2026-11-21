@@ -1,0 +1,19 @@
+# Minimum set (no torch). openai/numpy/pandas/pyyaml/pydantic/pytest are pulled in as needed.
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+langchain-chroma
+chromadb
+rank_bm25
+pypdf
+python-docx
+tokenizers
+tiktoken
+networkx
+streamlit
+plotly
+python-dotenv
+pydantic>=2
+pyyaml
+pytest

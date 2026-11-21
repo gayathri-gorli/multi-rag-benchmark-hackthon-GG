@@ -1,0 +1,4 @@
+# Only for EMBEDDING_PROVIDER=hf (pulls PyTorch, multi-GB, plus ~1.3 GB bge-large download)
+langchain-huggingface
+sentence-transformers
+transformers
